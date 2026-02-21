@@ -1,4 +1,4 @@
-// YOUR NAME HERE
+// Jinhan Lin
 // CSCI 251 - Project 1: Race Condition Detective
 // Bug 1: BuggyBank - Fix the race condition in this file
 
